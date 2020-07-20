@@ -33,7 +33,7 @@
     "fuse.js": "^5.1.0",
     "google-spreadsheet": "^3.0.10",
     "helmet": "^3.22.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "memory-cache": "^0.2.0",
     "moment": "^2.24.0",
     "mongoose": "^5.9.7",
