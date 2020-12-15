@@ -17,7 +17,7 @@
   "author": "Mike Pritchard",
   "license": "MIT",
   "dependencies": {
-    "@google-cloud/language": "^3.8.0",
+    "@google-cloud/language": "^4.0.0",
     "airtable": "^0.8.1",
     "bluebird": "^3.7.2",
     "callsite": "^1.0.0",
