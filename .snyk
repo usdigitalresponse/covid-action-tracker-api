@@ -10,3 +10,5 @@ patch:
         patched: '2020-12-15T15:17:01.032Z'
     - winston > async > lodash:
         patched: '2020-12-15T15:17:01.032Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-12-15T15:18:05.523Z'
