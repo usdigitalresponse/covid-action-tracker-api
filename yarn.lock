@@ -2452,10 +2452,10 @@ express-mongo-sanitize@^2.0.0:
   resolved "https://registry.yarnpkg.com/express-mongo-sanitize/-/express-mongo-sanitize-2.0.0.tgz#0be68c6d5e3828553e0de08b786ba6439d88bf0f"
   integrity sha512-tqGqnKsibDfKqypC6QDYjp4VRLqtTlwuHDfK7KECZvq9fDOq8yi0MdzCJe2DWhv54/IoQV+7uXR7h9eD+Fc5LA==
 
-express-useragent@^1.0.13:
-  version "1.0.13"
-  resolved "https://registry.yarnpkg.com/express-useragent/-/express-useragent-1.0.13.tgz#82f7c252037a388c0412e22a59b2b128574f7e16"
-  integrity sha512-3RGcGuXbyr/t62yyu3CRLFS9Fc30tWiVd6TQ1/C7mdQU4Yv7UPfSvtAkYfqoaH2FMkQvrXD7V/FtpFhy6MfUcg==
+express-useragent@^1.0.15:
+  version "1.0.15"
+  resolved "https://registry.yarnpkg.com/express-useragent/-/express-useragent-1.0.15.tgz#cefda5fa4904345d51d3368b117a8dd4124985d9"
+  integrity sha512-eq5xMiYCYwFPoekffMjvEIk+NWdlQY9Y38OsTyl13IvA728vKT+q/CSERYWzcw93HGBJcIqMIsZC5CZGARPVdg==
 
 express@^4.17.1:
   version "4.17.1"
