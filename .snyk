@@ -10,3 +10,7 @@ patch:
         patched: '2020-12-15T15:17:01.032Z'
     - winston > async > lodash:
         patched: '2020-12-15T15:17:01.032Z'
+    - sequelize > lodash:
+        patched: '2021-01-14T19:11:26.925Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2021-01-14T19:11:26.925Z'
